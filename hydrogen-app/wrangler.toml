@@ -1,9 +1,10 @@
-name = "PROJECT_NAME"
+name = "shopifyhydrogen"
 type = "javascript"
-account_id = ""
+account_id = "b2c684561ddc2747f2376de05723c6ce"
 workers_dev = true
 route = ""
 zone_id = ""
+compatibility_date = "2021-11-15"
 
 [site]
 bucket = "dist/client"
