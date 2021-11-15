@@ -83,3 +83,7 @@ dist
 
 .node_modules/
 node_modules/
+
+#keys
+.shopify.config.js
+shopify.config.js
